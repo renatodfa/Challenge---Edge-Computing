@@ -36,4 +36,5 @@ Este projeto visa aumentar a segurança e o desempenho dos pilotos durante as co
 
 LINK DO VÍDEO -> https://github.com/renatodfa/Challenge---Edge-Computing/assets/162123754/d57aeb10-7dd4-4560-a222-f23e82e030ea
 LINK DO DOWNLOAD DO CÓDIGO ->  [Edge.txt](https://github.com/user-attachments/files/15849280/Edge.txt)
+LINK DO PROJETO NO TINKERCARD -> https://www.tinkercad.com/things/hx8o0UZ0aAE-challenge?sharecode=5-OKbMSBKVTJQ8nHSncwnAsJwMevTFAC-XtqUhYA46E
 
